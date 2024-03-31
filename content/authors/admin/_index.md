@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Bai
+title: Dr. rer. nat. Yang Bai
 
 # Full Name (for SEO)
 first_name: Yang
@@ -22,24 +22,34 @@ bio: My research interests include solid mechanics, phase-field model, finite el
 
 interests:
   - Solid Mechanics
+  - Multiphysics Coupling
   - Lithium-ion Battery
   - Functional Materials
   - Phase Field Modeling
   - Finite Element Method
-  - Artificial Intelligence
+  - Machine Learning
   - Software Development
 
 education:
   courses:
+    - course: Postdoc/Project group leader
+      institution: Max-Planck-Institut für Eisenforschung GmbH (MPIE), Germany
+      year: 2024
     - course: PhD in Materials Science
       institution: TU Darmstadt, Germany
       year: 2020
     - course: MEng in Solid Mechanics
-      institution: Beijing Institute of Technology
+      institution: Beijing Institute of Technology, China
       year: 2016
     - course: BSc in Solid Mechanics
-      institution: Peking University
+      institution: Peking University, China
       year: 2013
+
+working:
+  courses:
+    - course: Postdoc/Project group leader
+      institution: Max-Planck-Institut für Eisenforschung GmbH (MPIE)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
