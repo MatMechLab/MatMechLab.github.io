@@ -9,14 +9,14 @@ sections:
     content:
       title: Contact
       text: |-
-        Null.
+        Send message to me.
       email: yangbai90@outlook.com
       phone: 888 888 88 88
       address:
-        street: Null street
-        city: Null city
-        region: Null region
-        postcode: '00000'
+        street: Building A5,Songshanhu International Community
+        city: Dongguan
+        region: Guangdong
+        postcode: '523000'
         country: China
         country_code: CN
       coordinates:
@@ -24,8 +24,11 @@ sections:
         longitude: 'null'
       directions: null
       office_hours:
-        - 'Monday 10:00 to 13:00'
+        - 'Monday 09:00 to 17:00'
+        - 'Tuesday 09:00 to 17:00'
         - 'Wednesday 09:00 to 10:00'
+        - 'Thursday 09:00 to 17:00'
+        - 'Friday 09:00 to 17:00'
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments

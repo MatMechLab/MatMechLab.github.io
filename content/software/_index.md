@@ -11,4 +11,4 @@ banner:
 ---
 
 
-- **A**dvanced **S**imulation toolkit based on **F**inite **E**lement **M**ethod([AsFem](https://github.com/MatMechLab/AsFem))
+- **A**dvanced **S**imulation toolkit based on **F**inite **E**lement **M**ethod ([AsFem](https://github.com/MatMechLab/AsFem))

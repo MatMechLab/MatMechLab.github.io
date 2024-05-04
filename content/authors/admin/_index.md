@@ -14,11 +14,11 @@ role: Assistant Professor of Solid Mechanics
 
 # Organizations/Affiliations
 organizations:
-  - name: XXX University
-    url: ''
+  - name: School of Advanced Engineering, Great Bay University
+    url: 'https://www.gbu.edu.cn/menu/200'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include solid mechanics, phase-field model, finite element method and machine learning.
+bio: 
 
 interests:
   - Solid Mechanics
@@ -32,11 +32,11 @@ interests:
 
 education:
   courses:
-    - course: Postdoc/Project group leader
+    - course: Postdoc & Project group leader
       institution: Max-Planck-Institut für Eisenforschung GmbH (MPIE), Germany
       year: 2024
     - course: PhD in Materials Science
-      institution: TU Darmstadt, Germany
+      institution: Technische Universität Darmstadt, Germany
       year: 2020
     - course: MEng in Solid Mechanics
       institution: Beijing Institute of Technology, China
@@ -45,11 +45,6 @@ education:
       institution: Peking University, China
       year: 2013
 
-working:
-  courses:
-    - course: Postdoc/Project group leader
-      institution: Max-Planck-Institut für Eisenforschung GmbH (MPIE)
-      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -86,4 +81,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Null
+My research focuses on multiphysics modeling for functional and energy materials, such as lithium-ion batteris and green steel. I and my team aim at developing new theories and models to investigate complex physical phenomena such as mechanical failure, crack propagation, elastoplastic deformation, and nonlinear constitutive laws. As a modeler proficient in cutting-edge technologies, I am also dedicated to developing software that will accelerate my simulations while optimizing material performance for sustainable design.
