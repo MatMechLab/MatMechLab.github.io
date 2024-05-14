@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Welcome to the Material Mechanics Lab (**MM-Lab**)@[Great Bay University](https://www.gbu.edu.cn/?lang=en), where our research team is focusing on multiphysics coupling, phase-field modeling, machine learning, finite element simulation, and their applications in the field of solid mechanics. Utilizing state-of-the-art computational tools and theories, our goal is to investigate the microscale material behavior that play a critical role in determining large-scale material performance. This exploration is pivotal for driving progress in sustainable materials technologies and beyond.
+        Welcome to the Material Mechanics Lab (**MM-Lab** [中文版](https://www.x-mol.com/groups/matmechlab))@[Great Bay University](https://www.gbu.edu.cn/?lang=en), where our research team is focusing on multiphysics coupling, phase-field modeling, machine learning, finite element simulation, and their applications in the field of solid mechanics. Utilizing state-of-the-art computational tools and theories, our goal is to investigate the microscale material behavior that play a critical role in determining large-scale material performance. This exploration is pivotal for driving progress in sustainable materials technologies and beyond. 
   
   - block: collection
     content:
